@@ -15,7 +15,7 @@ npm install
 Start the development server on http://localhost:3000
 
 ```bash
-ynpm run dev
+npm run dev
 ```
 
 ## Production
